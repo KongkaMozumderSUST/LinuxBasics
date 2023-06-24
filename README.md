@@ -1,2 +1,2 @@
 # LinuxBasics
-#Command
+Commands
